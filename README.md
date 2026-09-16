@@ -1,5 +1,7 @@
 # Whisper
 
+> **Balamb Garden estate working copy** (look-only ASR limb: audio → clean text for the book). Owner: Irvine. Locks and prove script: **[BALAMB.md](BALAMB.md)**. Upstream: [openai/whisper](https://github.com/openai/whisper). Do not merge to `main` without Architect cut.
+
 [[Blog]](https://openai.com/blog/whisper)
 [[Paper]](https://arxiv.org/abs/2212.04356)
 [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md)
