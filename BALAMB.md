@@ -66,5 +66,5 @@ Expected gist of `tests/jfk.flac` (JFK inaugural excerpt): *“And so, my fellow
 ```text
 $ bash scripts/prove_asr.sh
 # ... model load ...
-And so my fellow Americans ask not what your country can do for you ask what you can do for your country.
+And so my fellow Americans ask not what your country can do for you ask what you can do for your country
 ```
